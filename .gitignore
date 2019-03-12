@@ -1,3 +1,9 @@
+*.vcxproj
+*.vcxproj.filters
+Release
+Debug
+*.log
+bin
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
@@ -7,3 +13,5 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+.DS_Store
+.vs
